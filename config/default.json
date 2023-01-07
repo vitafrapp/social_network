@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://vitafrapp:Pikafrapp1107@devconnector.gtlg0n4.mongodb.net/?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "e5cb5ab9948cb1f63455",
+  "githubSecret": "568d1cad2f05bff5bccfc09567b30b215fd78abe"
 }
